@@ -1,0 +1,97 @@
+{
+  "translations": {
+    "buttons": {
+      "contacts": "Contatti",
+      "goToMap": "Vai alla Mappa",
+      "addContact": "Aggiungi Contatto",
+      "close": "Chiudi",
+      "delete": "Elimina"
+    },
+
+    "screenHeaders": {
+      "emergencyContacts": "Contatti di Emergenza"
+    },
+
+    "contactsScreen": {
+      "noContact": "Non sono presenti contatti"
+    },
+
+    "contactsModalScreen": {
+      "contactsList": "Lista Contatti",
+      "searchPlaceholder": "Cerca Contatto"
+    },
+
+    "alert": {
+      "multipleNumbers": {
+        "title": "Numeri Multipli",
+        "subTitle": "Questo contatto ha piú numeri, seleziona un numero"
+      },
+
+      "contactsPermission": {
+        "title": "Accesso ai contatti negato",
+        "subTitle": "Impossibile accedere ai contatti del dispositivo"
+      },
+
+      "listFull": {
+        "title": "La lista é piena",
+        "subTitle": "Non puoi aggiungere piú di 5 contatti"
+      },
+
+      "alreadyPresent": {
+        "title": "Contatto giá presente",
+        "subTitle": "Non puoi aggiungere numeri duplicati"
+      },
+
+      "invalidNumber": {
+        "title": "Numero non valido",
+        "subTitle": "Il contatto che hai selezionato ha un numero non valido"
+      },
+
+      "noContactsFound": {
+        "title": "Nessun contatto trovato",
+        "subTitle": "Vai a Home > Contatti > Aggiungi Contatto"
+      },
+
+      "messageApplication": {
+        "title": "Applicazione messaggi non trovata",
+        "subTitle": "L'applicazione messaggi non é installata sul dispositivo"
+      },
+      "generalAlert": "Qualcosa é andato storto"
+    },
+    "tutorial": {
+      "welcomeSlide": {
+        "title": "Benvenuto nel tutorial di Sos App",
+        "subTitle": "Sos App é un'applicazione che ti aiuta nelle situazioni di emergenza"
+      },
+      "contactsSlide": {
+        "title": "Aggiungi i contatti di emergenza",
+        "subTitle": "Aggiungi i contatti a cui vuoi mandare il messaggio di sos. Non puoi aggiungere numeri duplicati o contatti con numeri non validi"
+      },
+      "sosSlide": {
+        "title": "Richiesta Sos",
+        "subTitle": "Per mandare la richiesta di sos puoi fare il tap sul bottone Sos dalla home screen"
+      },
+      "mapSlide": {
+        "title": "Visualizza Mappa",
+        "subTitle": "Puoi anche vedere la tua posizione sulla mappa e mandare i messaggi di sos direttamente da qui"
+      },
+      "buttonsSlide": {
+        "next": "Avanti",
+        "back": "Indietro"
+      }
+    },
+    "map": {
+      "labelMarker": {
+        "title": "Posizione Attuale",
+        "subTitle": "Fai il tap sul bottone di Sos se hai bisogo di aiuto"
+      }
+    },
+    "sosMessage": {
+      "latitude": "Latitudine",
+      "longitude": "Longitudine",
+      "messageStart": "Sono in pericolo, chiama i soccorsi. Mi trovo alle seguenti cordinate:",
+      "messageEnd": "Messaggio inviato automaticamente da Sos App nella seguente data:",
+      "googleMapUrl": "Clicca sull'url seguente per visualizzare la mia posizione attuale su google map:"
+    }
+  }
+}

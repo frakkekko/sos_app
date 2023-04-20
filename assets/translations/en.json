@@ -1,0 +1,98 @@
+{
+  "translations": {
+    "buttons": {
+      "contacts": "Contacts",
+      "goToMap": "Go To Map",
+      "addContact": "Add Contact",
+      "close": "Close",
+      "delete": "Delete"
+    },
+
+    "screenHeaders": {
+      "emergencyContacts": "Emergency Contacts"
+    },
+
+    "contactsScreen": {
+      "noContact": "There are no contacts"
+    },
+
+    "contactsModalScreen": {
+      "contactsList": "Contacts List",
+      "searchPlaceholder": "Search Contact"
+    },
+
+    "alert": {
+      "multipleNumbers": {
+        "title": "Multiple Numbers",
+        "subTitle": "This contact has multiple number, please select one"
+      },
+
+      "contactsPermission": {
+        "title": "Access to contacts denied",
+        "subTitle": "Unable to access device contacts"
+      },
+
+      "listFull": {
+        "title": "The list is Full",
+        "subTitle": "You can't add more than five contacts"
+      },
+
+      "alreadyPresent": {
+        "title": "Contact already present",
+        "subTitle": "You can't add duplicated contacts"
+      },
+
+      "invalidNumber": {
+        "title": "Invalid number",
+        "subTitle": "The contact you selected has not valid number"
+      },
+
+      "noContactsFound": {
+        "title": "No Contacts Found",
+        "subTitle": "Go to Home > Contacts > Add Contact"
+      },
+
+      "messageApplication": {
+        "title": "Message application not found",
+        "subTitle": "The message application is not installed"
+      },
+      "generalAlert": "Something went wrong"
+    },
+
+    "tutorial": {
+      "welcomeSlide": {
+        "title": "Welcome in Sos App tutorial",
+        "subTitle": "Sos app is a simple application that helps in emergency situations"
+      },
+      "contactsSlide": {
+        "title": "Add emergency contacts",
+        "subTitle": "Add the contacts you want to notify that you are in danger. You can't add duplicated contacts or contacts with invalid numbers"
+      },
+      "sosSlide": {
+        "title": "Sos Request",
+        "subTitle": "You can tap sos button from home screen to send the sos request"
+      },
+      "mapSlide": {
+        "title": "Map View",
+        "subTitle": "You can also view your position on the map. You can send sos request directly from the map screen"
+      },
+      "buttonsSlide": {
+        "next": "Next",
+        "back": "Back"
+      }
+    },
+    "map": {
+      "labelMarker": {
+        "title": "Actual Position",
+        "subTitle": "Tap Sos button if you need help"
+      }
+    },
+    "sosMessage": {
+      "latitude": "Latitude",
+      "longitude": "Longitude",
+      "messageStart": "I am in danger, call for help. I am situated at following coordinates:",
+      "messageEnd": "Message automatically sended by Sos App at the following date:",
+      "googleMapUrl": "Tap at the following url for visualize my current position on google map:"
+    }
+  }
+}
